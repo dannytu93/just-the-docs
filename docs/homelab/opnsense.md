@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Code
-parent: UI Components
+title: OPNsense
+parent: Homelab
+nav_order: 3
 has_children: true
-nav_order: 6
 ---
 
 # Code

@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Labels
-parent: UI Components
-nav_order: 3
+title: FreeNAS
+parent: Homelab
+nav_order: 4
+has_children: true
 ---
 
 # Labels
